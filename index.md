@@ -9,9 +9,9 @@
 <body>
   <hr width="1000" size="20" color="black">
   <font face="Times New Roman" color="blue" size="8" >
-    <b><i>                        DAKSH GUPTA </i></b></font> </hr>
+    <b><i>                        DAKSH GUPTA </i></b></font>
    
-<img src="WhatsApp Image 2021-03-03 at 10.25.48 AM.jpeg" border="5" bordercolor="blue" height="300" width="300" alt="DAKSH GUPTA"> 
+<img src="https://github.com/dakshgupta2002/DAKSH-PROFILE/blob/main/WhatsApp%20Image%202021-03-03%20at%2010.25.48%20AM.jpeg" border="5" bordercolor="blue" height="300" width="300" alt="DAKSH GUPTA"> 
  
 
 <font size="6" face="algerian">
@@ -29,7 +29,7 @@ in every aspect of life!</pre> </font>
 <li>hobbies and passion</li>
 <li>qualification</li>
 <li>aspirations</li> </font>
-<hr color="black"></hr>
+<hr color="black">
 
 <pre>
 
@@ -54,16 +54,16 @@ in every aspect of life!</pre> </font>
 
 </pre>
     <h1>My Ceritificates of Excellence are attached below:</h1>
-    <img src="https://github.com/dakshgupta2002/PORTFOLIO/blob/No.1/WhatsApp%20Image%202021-03-03%20at%201.24.20%20PM%20(1).jpeg" height="400" width="700" alt="Table Tennis part Ceritificates">
+    <img src="https://github.com/dakshgupta2002/DAKSH-PROFILE/blob/main/WhatsApp%20Image%202021-03-03%20at%201.24.20%20PM%20(1).jpeg" height="400" width="700" alt="Table Tennis part Ceritificates">
     
-    <img src="WhatsApp Image 2021-03-03 at 1.24.20 PM (1).jpeg" width="700" height="400" alt="Table Tennis  Ceritificates">
+    <img src="https://github.com/dakshgupta2002/DAKSH-PROFILE/blob/main/WhatsApp%20Image%202021-03-03%20at%201.24.20%20PM%20(3).jpeg" width="700" height="400" alt="Table Tennis  Ceritificates">
 
     <h2>I have been playing table tennis for over 4 years now as my <b>favourite</b>hobby.
     it's one my best ways to stay healthy whilst enjoying what I'm doing...</h2>
-    <img src="WhatsApp Image 2021-03-03 at 1.24.20 PM (2).jpeg" width="850" height="500" alt="Stood 3rd in ripple's quiz">
+    <img src="https://github.com/dakshgupta2002/DAKSH-PROFILE/blob/main/WhatsApp%20Image%202021-03-03%20at%201.24.20%20PM%20(2).jpeg" width="850" height="500" alt="Stood 3rd in ripple's quiz">
     <h2>I took part in a general knowledge quiz and I 100% owe is this achievement to my team!</h2>
 
-    <img src="WhatsApp Image 2021-03-03 at 1.24.20 PM.jpeg" width="900" height="600" alt="appreciation of team work in tradh trek robotics challenge">
+    <img src="https://github.com/dakshgupta2002/DAKSH-PROFILE/blob/main/WhatsApp%20Image%202021-03-03%20at%201.24.20%20PM.jpeg" width="900" height="600" alt="appreciation of team work in tradh trek robotics challenge">
     <h2>This is one my favourite <b><i>memories and achievement.</i></b> 
       This was a fun very robotics challenge and i will definitely pursue robotics further in my college life.</h2>
 
@@ -74,7 +74,7 @@ in every aspect of life!</pre> </font>
 
 
  </pre>
-      <hr color="black"></hr>
+      <hr color="black">
 <h1 color="blue">FOLLOW ME ON SOCIAL MEDIA:</h1>
       <div class="container">
         <p></p>
@@ -85,8 +85,7 @@ in every aspect of life!</pre> </font>
 
         <hr class="hr-text" data-content="OR">
         <p><a href="https://www.codechef.com/users/daksh_g123"><h2 color="green">Codechef ID</h2></a></p>
-      </div>
-    </hr> </hr> </hr>
+        </div>
 
     <textarea rows="3" cols="40">
       Please leave a feedback if you liked the Portfolio :)

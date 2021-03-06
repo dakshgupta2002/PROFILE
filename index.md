@@ -54,7 +54,7 @@ in every aspect of life!</pre> </font>
 
 </pre>
     <h1>My Ceritificates of Excellence are attached below:</h1>
-    <img src="WhatsApp Image 2021-03-03 at 1.24.20 PM (3).jpeg" height="400" width="700" alt="Table Tennis part Ceritificates">
+    <img src="https://github.com/dakshgupta2002/PORTFOLIO/blob/No.1/WhatsApp%20Image%202021-03-03%20at%201.24.20%20PM%20(1).jpeg" height="400" width="700" alt="Table Tennis part Ceritificates">
     
     <img src="WhatsApp Image 2021-03-03 at 1.24.20 PM (1).jpeg" width="700" height="400" alt="Table Tennis  Ceritificates">
 
